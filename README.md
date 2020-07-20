@@ -1,6 +1,3 @@
----
-title-heading: false
----
 Hello, <br/>
 Thanks for visiting. <br/><br/>
 Unfortunately, I am too lazy to create a personal website. This was just made to test how things work here.<br/><br/>
